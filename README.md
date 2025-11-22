@@ -8,8 +8,7 @@ Tech Stack
 HTML5, JavaScript, React.js, Node.js, Angular.js, Next.js, Python3, Redux, CSS3, SASS, Git, Vercel, Parcel, Webpack, REST API.
 
 Project Experience
-
-1)WebStudio - Personal Project
+1) WebStudio - Personal Project
 https://dolegovna16.github.io/goit-markup-hm-06/index.html
 https://github.com/dolegovna16/goit-markup-hm-06
 Project description: Website for a digital design and development studio.
